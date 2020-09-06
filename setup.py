@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="panvalidator",
-    version="0.0.1",
+    version="0.0.2",
     author="Gennady Denisov",
     author_email="denisovgena@gmail.com",
     description="Primary Account Number validation tool",

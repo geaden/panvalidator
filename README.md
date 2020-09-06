@@ -1,6 +1,6 @@
 # PAN validator
 
-[![Build Status](https://travis-ci.com/geaden/panvalidator.svg?branch=main)](https://travis-ci.com/geaden/panvalidator) [![Coverage Status](https://coveralls.io/repos/github/geaden/panvalidator/badge.svg?branch=main)](https://coveralls.io/github/geaden/panvalidator?branch=main)
+![Upload Python Package](https://github.com/geaden/panvalidator/workflows/Upload%20Python%20Package/badge.svg) [![PyPI version](https://badge.fury.io/py/panvalidator.svg)](https://badge.fury.io/py/panvalidator) [![Build Status](https://travis-ci.com/geaden/panvalidator.svg?branch=main)](https://travis-ci.com/geaden/panvalidator) [![Coverage Status](https://coveralls.io/repos/github/geaden/panvalidator/badge.svg?branch=main)](https://coveralls.io/github/geaden/panvalidator?branch=main)
 
 A [Primary Account Number](https://en.wikipedia.org/wiki/Payment_card_number) 
 validation tool.
