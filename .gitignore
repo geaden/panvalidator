@@ -1,0 +1,5 @@
+# Python3
+__pycache__/
+
+# Coverage
+.coverage
